@@ -5,7 +5,7 @@ A realtime prediction example with fastApi post and get requests based on Stream
 
 1. Clone the repo
 2. Create a python venv
-3. install dependencies in requirements.txt
+3. Install dependencies in requirements.txt
 
 Enjoy :)
 
